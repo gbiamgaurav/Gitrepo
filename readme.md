@@ -9,3 +9,4 @@
 updated the readme file, also added app1.py
 
 ## Added Developer2 branch 
+created requirements.txt
